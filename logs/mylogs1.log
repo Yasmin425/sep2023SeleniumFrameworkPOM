@@ -1,0 +1,435 @@
+20231023 12:07:35 INFO  [main] base.BaseTest BaseTest.java66 - chrome browser launched
+20231023 12:07:36 INFO  [main] base.BaseTest BaseTest.java81 - browser window has maximized
+20231023 12:07:43 INFO  [main] base.BaseTest BaseTest.java76 - https://qa-tekarch.firebaseapp.comis entered
+20231023 12:07:47 INFO  [main] base.BaseTest BaseTest.java113 - data is entered in the username textbox
+20231023 12:07:47 INFO  [main] base.BaseTest BaseTest.java113 - data is entered in the password textbox
+20231023 12:07:52 INFO  [main] base.BaseTest BaseTest.java101 - browser closed
+20231023 12:07:52 INFO  [main] base.BaseTest BaseTest.java102 - ******invalid_login_to_firebase1 automation script ended***********
+20231023 12:07:52 INFO  [main] base.BaseTest BaseTest.java55 - ******login_to_firebase automation script ended***********
+20231023 12:08:05 INFO  [main] base.BaseTest BaseTest.java66 - chrome browser launched
+20231023 12:08:05 INFO  [main] base.BaseTest BaseTest.java81 - browser window has maximized
+20231023 12:08:20 INFO  [main] base.BaseTest BaseTest.java76 - https://qa-tekarch.firebaseapp.comis entered
+20231023 12:08:20 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java46 - ******invalid_login_to_firebase1 automation script started***********
+20231023 12:08:25 INFO  [main] base.BaseTest BaseTest.java101 - browser closed
+20231023 12:08:25 INFO  [main] base.BaseTest BaseTest.java102 - ******invalid_login_to_firebase1 automation script ended***********
+20231023 12:08:25 INFO  [main] base.BaseTest BaseTest.java55 - ******login_to_firebase automation script ended***********
+20231023 12:08:36 INFO  [main] base.BaseTest BaseTest.java66 - chrome browser launched
+20231023 12:08:36 INFO  [main] base.BaseTest BaseTest.java81 - browser window has maximized
+20231023 12:08:40 INFO  [main] base.BaseTest BaseTest.java76 - https://qa-tekarch.firebaseapp.comis entered
+20231023 12:08:43 INFO  [main] base.BaseTest BaseTest.java113 - data is entered in the username textbox
+20231023 12:08:44 INFO  [main] base.BaseTest BaseTest.java101 - browser closed
+20231023 12:08:44 INFO  [main] base.BaseTest BaseTest.java102 - ******invalid_login_to_firebase1 automation script ended***********
+20231023 12:08:44 INFO  [main] base.BaseTest BaseTest.java55 - ******login_to_firebase automation script ended***********
+20231023 12:08:51 INFO  [main] base.BaseTest BaseTest.java66 - chrome browser launched
+20231023 12:08:52 INFO  [main] base.BaseTest BaseTest.java81 - browser window has maximized
+20231023 12:08:55 INFO  [main] base.BaseTest BaseTest.java76 - https://qa-tekarch.firebaseapp.comis entered
+20231023 12:08:55 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java20 - ******login_to_firebase automation script started***********
+20231023 12:08:57 INFO  [main] base.BaseTest BaseTest.java113 - data is entered in the username textbox
+20231023 12:08:58 INFO  [main] base.BaseTest BaseTest.java113 - data is entered in the password textbox
+20231023 12:09:00 INFO  [main] base.BaseTest BaseTest.java95 - extracted the text fromstudent header text
+20231023 12:09:01 INFO  [main] base.BaseTest BaseTest.java101 - browser closed
+20231023 12:09:01 INFO  [main] base.BaseTest BaseTest.java102 - ******invalid_login_to_firebase1 automation script ended***********
+20231023 12:09:01 INFO  [main] base.BaseTest BaseTest.java55 - ******login_to_firebase automation script ended***********
+20231023 14:30:06 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 05:55:51 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 05:57:31 INFO  [main] base.BaseTest BaseTest.java83 - chrome browser launched
+20231024 05:58:34 INFO  [main] base.BaseTest BaseTest.java84 - chrome browser launched
+20231024 06:00:28 INFO  [main] base.BaseTest BaseTest.java84 - chrome browser launched
+20231024 06:03:18 INFO  [main] base.BaseTest BaseTest.java84 - chrome browser launched
+20231024 06:05:17 INFO  [main] base.BaseTest BaseTest.java84 - chrome browser launched
+20231024 06:07:15 INFO  [main] base.BaseTest BaseTest.java84 - chrome browser launched
+20231024 06:09:56 INFO  [main] base.BaseTest BaseTest.java84 - chrome browser launched
+20231024 06:10:41 INFO  [main] base.BaseTest BaseTest.java84 - chrome browser launched
+20231024 06:12:24 INFO  [main] base.BaseTest BaseTest.java84 - chrome browser launched
+20231024 06:14:30 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:22:38 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:22:44 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:22:47 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 06:22:47 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the password textbox
+20231024 06:25:15 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:25:19 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:25:21 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 06:25:22 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the password textbox
+20231024 06:26:30 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:26:42 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:26:45 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 06:26:45 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the password textbox
+20231024 06:27:48 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:27:54 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:28:00 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 06:28:00 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the password textbox
+20231024 06:28:02 INFO  [main] base.BaseTest BaseTest.java309 - captured the screen
+20231024 06:28:03 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:28:03 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:28:07 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:28:11 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:28:11 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java47 - ******invalid_login_to_firebase1 automation script started***********
+20231024 06:28:18 INFO  [main] base.BaseTest BaseTest.java309 - captured the screen
+20231024 06:28:20 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:28:20 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:28:25 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:28:32 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:28:34 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 06:28:35 INFO  [main] base.BaseTest BaseTest.java309 - captured the screen
+20231024 06:28:37 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:28:37 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:28:42 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:28:48 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:28:48 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java21 - ******login_to_firebase automation script started***********
+20231024 06:28:50 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 06:28:50 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the password textbox
+20231024 06:28:51 INFO  [main] base.BaseTest BaseTest.java115 - extracted the text fromstudent header text
+20231024 06:28:51 INFO  [main] base.BaseTest BaseTest.java309 - captured the screen
+20231024 06:29:00 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:29:00 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:33:25 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:33:29 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:33:35 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 06:33:35 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the password textbox
+20231024 06:33:37 ERROR [main] base.BaseTest BaseTest.java314 - captured the screen
+20231024 06:33:52 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:33:52 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:33:58 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:34:02 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:34:02 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java47 - ******invalid_login_to_firebase1 automation script started***********
+20231024 06:34:11 ERROR [main] base.BaseTest BaseTest.java314 - captured the screen
+20231024 06:34:14 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:34:14 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:34:19 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:34:22 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:34:28 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 06:34:28 ERROR [main] base.BaseTest BaseTest.java314 - captured the screen
+20231024 06:34:28 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:34:28 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:34:33 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:34:40 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:34:40 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java21 - ******login_to_firebase automation script started***********
+20231024 06:34:42 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 06:34:43 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the password textbox
+20231024 06:34:44 INFO  [main] base.BaseTest BaseTest.java115 - extracted the text fromstudent header text
+20231024 06:34:44 ERROR [main] base.BaseTest BaseTest.java314 - captured the screen
+20231024 06:34:52 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:34:52 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:34:55 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:35:01 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:35:03 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 06:35:04 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the password textbox
+20231024 06:35:05 ERROR [main] base.BaseTest BaseTest.java314 - captured the screen
+20231024 06:35:11 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:35:11 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:35:14 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:35:19 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:35:19 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java47 - ******invalid_login_to_firebase1 automation script started***********
+20231024 06:35:24 ERROR [main] base.BaseTest BaseTest.java314 - captured the screen
+20231024 06:35:27 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:35:27 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:35:31 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:35:37 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:35:39 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 06:35:43 ERROR [main] base.BaseTest BaseTest.java314 - captured the screen
+20231024 06:35:49 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:35:49 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:35:53 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:35:56 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:35:56 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java21 - ******login_to_firebase automation script started***********
+20231024 06:35:59 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 06:35:59 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the password textbox
+20231024 06:36:00 INFO  [main] base.BaseTest BaseTest.java115 - extracted the text fromstudent header text
+20231024 06:36:00 ERROR [main] base.BaseTest BaseTest.java314 - captured the screen
+20231024 06:36:08 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:36:08 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:38:05 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:38:09 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:38:14 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 06:38:14 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the password textbox
+20231024 06:38:17 INFO  [main] base.BaseTest BaseTest.java309 - captured the screen
+20231024 06:38:22 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:38:22 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:38:28 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:38:31 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:38:31 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java47 - ******invalid_login_to_firebase1 automation script started***********
+20231024 06:38:41 INFO  [main] base.BaseTest BaseTest.java309 - captured the screen
+20231024 06:38:42 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:38:42 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:38:49 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:38:57 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:38:59 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 06:39:00 INFO  [main] base.BaseTest BaseTest.java309 - captured the screen
+20231024 06:39:01 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:39:01 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:39:09 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:39:18 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:39:18 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java21 - ******login_to_firebase automation script started***********
+20231024 06:39:20 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 06:39:21 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the password textbox
+20231024 06:39:22 INFO  [main] base.BaseTest BaseTest.java115 - extracted the text fromstudent header text
+20231024 06:39:22 INFO  [main] base.BaseTest BaseTest.java309 - captured the screen
+20231024 06:39:24 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:39:24 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:44:40 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:44:48 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:44:50 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 06:44:50 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the password textbox
+20231024 06:44:52 ERROR [main] base.BaseTest BaseTest.java314 - captured the screen
+20231024 06:44:52 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:44:52 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:44:58 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:45:05 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:45:05 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java47 - ******invalid_login_to_firebase1 automation script started***********
+20231024 06:45:08 ERROR [main] base.BaseTest BaseTest.java314 - captured the screen
+20231024 06:45:09 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:45:09 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:45:15 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:45:25 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:45:28 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 06:45:28 ERROR [main] base.BaseTest BaseTest.java314 - captured the screen
+20231024 06:45:28 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:45:28 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:45:33 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:45:37 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:45:37 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java21 - ******login_to_firebase automation script started***********
+20231024 06:45:40 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 06:45:40 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the password textbox
+20231024 06:45:41 INFO  [main] base.BaseTest BaseTest.java115 - extracted the text fromstudent header text
+20231024 06:45:41 ERROR [main] base.BaseTest BaseTest.java314 - captured the screen
+20231024 06:45:41 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:45:41 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:46:04 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:46:09 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:46:13 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 06:46:14 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the password textbox
+20231024 06:46:15 INFO  [main] base.BaseTest BaseTest.java309 - captured the screen
+20231024 06:46:16 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:46:16 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:46:19 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:46:27 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:46:27 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java47 - ******invalid_login_to_firebase1 automation script started***********
+20231024 06:46:30 INFO  [main] base.BaseTest BaseTest.java309 - captured the screen
+20231024 06:46:31 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:46:31 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:46:35 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:46:41 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:46:44 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 06:46:44 INFO  [main] base.BaseTest BaseTest.java309 - captured the screen
+20231024 06:46:44 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:46:44 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:46:48 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:47:03 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:47:03 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java21 - ******login_to_firebase automation script started***********
+20231024 06:47:05 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 06:47:05 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the password textbox
+20231024 06:47:07 INFO  [main] base.BaseTest BaseTest.java115 - extracted the text fromstudent header text
+20231024 06:47:07 INFO  [main] base.BaseTest BaseTest.java309 - captured the screen
+20231024 06:47:08 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:47:08 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:50:40 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:50:50 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:51:01 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 06:51:02 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the password textbox
+20231024 06:51:04 INFO  [main] base.BaseTest BaseTest.java309 - captured the screen
+20231024 06:51:04 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:51:04 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:51:08 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:51:11 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:51:11 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java47 - ******invalid_login_to_firebase1 automation script started***********
+20231024 06:51:16 INFO  [main] base.BaseTest BaseTest.java309 - captured the screen
+20231024 06:51:16 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:51:16 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:51:20 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:51:26 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:51:28 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 06:51:29 INFO  [main] base.BaseTest BaseTest.java309 - captured the screen
+20231024 06:51:29 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:51:29 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 06:51:34 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 06:51:38 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 06:51:38 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java21 - ******login_to_firebase automation script started***********
+20231024 06:51:40 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 06:51:40 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the password textbox
+20231024 06:51:41 INFO  [main] base.BaseTest BaseTest.java115 - extracted the text fromstudent header text
+20231024 06:51:42 INFO  [main] base.BaseTest BaseTest.java309 - captured the screen
+20231024 06:51:42 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 06:51:42 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 07:11:20 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 07:11:25 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 07:11:28 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 07:11:28 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the password textbox
+20231024 07:11:29 INFO  [main] base.BaseTest BaseTest.java309 - captured the screen
+20231024 07:11:30 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 07:11:30 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 07:11:33 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 07:11:38 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 07:11:38 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java47 - ******invalid_login_to_firebase1 automation script started***********
+20231024 07:11:41 INFO  [main] base.BaseTest BaseTest.java309 - captured the screen
+20231024 07:11:41 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 07:11:41 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 07:11:45 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 07:11:49 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 07:11:51 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 07:11:52 INFO  [main] base.BaseTest BaseTest.java309 - captured the screen
+20231024 07:11:52 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 07:11:52 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 07:11:56 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 07:12:00 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 07:12:00 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java21 - ******login_to_firebase automation script started***********
+20231024 07:12:03 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 07:12:03 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the password textbox
+20231024 07:12:04 INFO  [main] base.BaseTest BaseTest.java115 - extracted the text fromstudent header text
+20231024 07:12:04 INFO  [main] base.BaseTest BaseTest.java309 - captured the screen
+20231024 07:12:05 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 07:12:05 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 09:08:59 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 09:09:02 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 09:09:08 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 09:09:08 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the password textbox
+20231024 09:09:15 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 09:09:15 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 09:09:24 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 09:09:31 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 09:09:31 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java44 - ******invalid_login_to_firebase1 automation script started***********
+20231024 09:09:35 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 09:09:35 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 09:09:43 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 09:09:48 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 09:09:51 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 09:09:54 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 09:09:54 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 09:10:01 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 09:10:10 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 09:10:10 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java21 - ******login_to_firebase automation script started***********
+20231024 09:10:13 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 09:10:14 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the password textbox
+20231024 09:10:17 INFO  [main] base.BaseTest BaseTest.java115 - extracted the text fromstudent header text
+20231024 09:10:19 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 09:10:19 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 09:13:29 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 09:13:32 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 09:13:35 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 09:13:35 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the password textbox
+20231024 09:13:38 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 09:13:38 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 09:13:45 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 09:13:49 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 09:13:49 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java44 - ******invalid_login_to_firebase1 automation script started***********
+20231024 09:13:52 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 09:13:52 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 09:14:00 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 09:14:04 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 09:14:07 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 09:14:09 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 09:14:09 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 09:14:17 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 09:14:22 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 09:14:22 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java21 - ******login_to_firebase automation script started***********
+20231024 09:14:27 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the username textbox
+20231024 09:14:28 INFO  [main] base.BaseTest BaseTest.java138 - data is entered in the password textbox
+20231024 09:14:29 INFO  [main] base.BaseTest BaseTest.java309 - captured the screen
+20231024 09:14:29 INFO  [main] base.BaseTest BaseTest.java121 - browser closed
+20231024 09:14:29 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 10:58:18 INFO  [main] base.BaseTest BaseTest.java77 - firefox browser launched
+20231024 10:58:21 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 10:58:21 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java23 - ******login_to_firebase automation script started***********
+20231024 10:58:35 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 11:01:50 INFO  [main] base.BaseTest BaseTest.java77 - firefox browser launched
+20231024 11:01:55 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 11:01:55 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java23 - ******login_to_firebase automation script started***********
+20231024 11:02:04 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231024 11:12:14 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231024 11:12:20 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231024 11:12:21 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java23 - ******login_to_firebase automation script started***********
+20231024 11:12:27 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231025 21:43:15 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231025 21:43:15 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231025 21:43:15 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java23 - ******login_to_firebase automation script started***********
+20231025 21:43:16 INFO  [main] base.BaseTest BaseTest.java111 - captured the screen
+20231025 21:43:16 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231025 22:43:06 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231025 22:43:06 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231025 22:43:06 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java23 - ******login_to_firebase automation script started***********
+20231025 22:43:06 INFO  [main] base.BaseTest BaseTest.java111 - captured the screen
+20231025 22:43:07 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231027 11:47:11 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231027 11:47:12 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231027 11:47:12 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java23 - ******login_to_firebase automation script started***********
+20231027 11:47:12 INFO  [main] base.BaseTest BaseTest.java111 - captured the screen
+20231027 11:47:12 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231029 13:30:28 INFO  [main] base.BaseTest BaseTest.java82 - chrome browser launched
+20231029 13:30:28 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231029 13:30:28 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java23 - ******login_to_firebase automation script started***********
+20231029 13:30:30 INFO  [main] base.BaseTest BaseTest.java111 - captured the screen
+20231029 13:30:30 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231029 13:35:01 INFO  [main] base.BaseTest BaseTest.java77 - firefox browser launched
+20231029 13:35:02 INFO  [main] base.BaseTest BaseTest.java94 - https://qa-tekarch.firebaseapp.comis entered
+20231029 13:35:02 INFO  [main] scripts.FirebaseAutomationScript FirebaseAutomationScript.java23 - ******login_to_firebase automation script started***********
+20231029 13:35:03 INFO  [main] base.BaseTest BaseTest.java66 - ******login_to_firebase automation script ended***********
+20231029 14:14:08 INFO  [main] base.BaseTest BaseTest.java53 - ******Salesforce script ended***********
+20231029 14:14:14 INFO  [main] base.BaseTest BaseTest.java78 - firefox browser launched
+20231029 14:14:15 INFO  [main] base.BaseTest BaseTest.java95 - https://login.salesforce.com/is entered
+20231029 14:14:16 INFO  [main] base.BaseTest BaseTest.java67 - ******Salesforce script ended***********
+20231029 14:26:03 INFO  [main] base.BaseTest BaseTest.java53 - ******Salesforce script ended***********
+20231029 14:26:11 INFO  [main] base.BaseTest BaseTest.java78 - firefox browser launched
+20231029 14:26:11 INFO  [main] base.BaseTest BaseTest.java95 - https://login.salesforce.com/is entered
+20231029 14:26:11 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java52 - ******login_to_Salesforce automation script started***********
+20231029 14:26:11 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java55 - url is entered
+20231029 14:26:43 INFO  [main] base.BaseTest BaseTest.java67 - ******Salesforce script ended***********
+20231029 14:32:46 INFO  [main] base.BaseTest BaseTest.java53 - ******Salesforce script ended***********
+20231029 14:32:52 INFO  [main] base.BaseTest BaseTest.java78 - firefox browser launched
+20231029 14:32:53 INFO  [main] base.BaseTest BaseTest.java95 - https://login.salesforce.com/is entered
+20231029 14:32:53 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java52 - ******login_to_Salesforce automation script started***********
+20231029 14:32:53 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java55 - url is entered
+20231029 14:33:24 INFO  [main] base.BaseTest BaseTest.java67 - ******Salesforce script ended***********
+20231029 19:24:07 INFO  [main] base.BaseTest BaseTest.java53 - ******Salesforce script Started***********
+20231029 19:24:14 INFO  [main] base.BaseTest BaseTest.java78 - firefox browser launched
+20231029 19:24:15 INFO  [main] base.BaseTest BaseTest.java95 - https://login.salesforce.com/is entered
+20231029 19:24:15 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java52 - ******login_to_Salesforce automation script started***********
+20231029 19:24:15 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java55 - url is entered
+20231029 19:24:23 INFO  [main] base.BaseTest BaseTest.java67 - ******Salesforce script ended***********
+20231029 19:25:25 INFO  [main] base.BaseTest BaseTest.java53 - ******Salesforce script Started***********
+20231029 19:25:29 INFO  [main] base.BaseTest BaseTest.java78 - firefox browser launched
+20231029 19:25:30 INFO  [main] base.BaseTest BaseTest.java95 - https://login.salesforce.com/is entered
+20231029 19:25:30 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java24 - ******login_to_Salesforce automation script started***********
+20231029 19:25:37 INFO  [main] base.BaseTest BaseTest.java67 - ******Salesforce script ended***********
+20231029 19:26:56 INFO  [main] base.BaseTest BaseTest.java53 - ******Salesforce script Started***********
+20231029 19:27:00 INFO  [main] base.BaseTest BaseTest.java78 - firefox browser launched
+20231029 19:27:00 INFO  [main] base.BaseTest BaseTest.java95 - https://login.salesforce.com/is entered
+20231029 19:27:00 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java24 - ******login_to_Salesforce automation script started***********
+20231029 19:27:02 INFO  [main] base.BaseTest BaseTest.java67 - ******Salesforce script ended***********
+20231029 20:12:38 INFO  [main] base.BaseTest BaseTest.java53 - ******Salesforce script Started***********
+20231029 20:12:44 INFO  [main] base.BaseTest BaseTest.java78 - firefox browser launched
+20231029 20:12:45 INFO  [main] base.BaseTest BaseTest.java95 - https://login.salesforce.com/is entered
+20231029 20:12:45 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java156 - ******Invalid login_to_Salesforce automation script started***********
+20231029 20:12:45 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java159 - url is entered
+20231029 20:12:47 INFO  [main] base.BaseTest BaseTest.java67 - ******Salesforce script ended***********
+20231029 20:13:29 INFO  [main] base.BaseTest BaseTest.java53 - ******Salesforce script Started***********
+20231029 20:13:33 INFO  [main] base.BaseTest BaseTest.java78 - firefox browser launched
+20231029 20:13:33 INFO  [main] base.BaseTest BaseTest.java95 - https://login.salesforce.com/is entered
+20231029 20:13:33 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java156 - ******Invalid login_to_Salesforce automation script started***********
+20231029 20:13:33 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java159 - url is entered
+20231029 20:13:55 INFO  [main] base.BaseTest BaseTest.java53 - ******Salesforce script Started***********
+20231029 20:13:59 INFO  [main] base.BaseTest BaseTest.java78 - firefox browser launched
+20231029 20:13:59 INFO  [main] base.BaseTest BaseTest.java95 - https://login.salesforce.com/is entered
+20231029 20:14:01 INFO  [main] base.BaseTest BaseTest.java67 - ******Salesforce script ended***********
+20231029 20:14:26 INFO  [main] base.BaseTest BaseTest.java53 - ******Salesforce script Started***********
+20231029 20:14:30 INFO  [main] base.BaseTest BaseTest.java78 - firefox browser launched
+20231029 20:14:31 INFO  [main] base.BaseTest BaseTest.java95 - https://login.salesforce.com/is entered
+20231029 20:14:33 INFO  [main] base.BaseTest BaseTest.java67 - ******Salesforce script ended***********
+20231029 20:14:47 INFO  [main] base.BaseTest BaseTest.java53 - ******Salesforce script Started***********
+20231029 20:14:51 INFO  [main] base.BaseTest BaseTest.java78 - firefox browser launched
+20231029 20:14:52 INFO  [main] base.BaseTest BaseTest.java95 - https://login.salesforce.com/is entered
+20231029 20:14:52 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java156 - ******Invalid login_to_Salesforce automation script started***********
+20231029 20:14:52 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java159 - url is entered
+20231029 20:14:53 INFO  [main] base.BaseTest BaseTest.java67 - ******Salesforce script ended***********
+20231029 20:17:32 INFO  [main] base.BaseTest BaseTest.java53 - ******Salesforce script Started***********
+20231029 20:17:38 INFO  [main] base.BaseTest BaseTest.java78 - firefox browser launched
+20231029 20:17:39 INFO  [main] base.BaseTest BaseTest.java95 - https://login.salesforce.com/is entered
+20231029 20:17:39 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java156 - ******Invalid login_to_Salesforce automation script started***********
+20231029 20:17:39 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java159 - url is entered
+20231029 20:17:40 INFO  [main] base.BaseTest BaseTest.java67 - ******Salesforce script ended***********
+20231029 20:18:16 INFO  [main] base.BaseTest BaseTest.java53 - ******Salesforce script Started***********
+20231029 20:18:20 INFO  [main] base.BaseTest BaseTest.java78 - firefox browser launched
+20231029 20:18:21 INFO  [main] base.BaseTest BaseTest.java95 - https://login.salesforce.com/is entered
+20231029 20:18:22 INFO  [main] base.BaseTest BaseTest.java67 - ******Salesforce script ended***********
+20231029 20:20:24 INFO  [main] base.BaseTest BaseTest.java53 - ******Salesforce script Started***********
+20231029 20:20:30 INFO  [main] base.BaseTest BaseTest.java78 - firefox browser launched
+20231029 20:20:31 INFO  [main] base.BaseTest BaseTest.java95 - https://login.salesforce.com/is entered
+20231029 20:20:32 INFO  [main] base.BaseTest BaseTest.java67 - ******Salesforce script ended***********
