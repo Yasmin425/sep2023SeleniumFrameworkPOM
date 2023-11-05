@@ -50,7 +50,7 @@
               <ul>
                 <li>
                   <a href="#" panel-name="test-xml-Default_suite" class="navigator-link ">
-                    <span>C:\Users\yasmi\AppData\Local\Temp\testng-eclipse--1023217632\testng-customsuite.xml</span>
+                    <span>C:\Users\yasmi\AppData\Local\Temp\testng-eclipse--1711772749\testng-customsuite.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -103,7 +103,7 @@
                     <div class="method-list-content failed suite-Default_suite">
                       <span>
                         <img src="failed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Default_suite" title="com.automation.tests.scripts.SalesforceAutomationScript" class="method navigator-link" hash-for-method="Forgotpassword">Forgotpassword</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Default_suite" title="com.automation.tests.scripts.SalesforceAutomationScript" class="method navigator-link" hash-for-method="LoginErrorMessage">LoginErrorMessage</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content failed suite-Default_suite -->
@@ -126,13 +126,13 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="Forgotpassword">
-                  </a> <!-- Forgotpassword -->
-                  <span class="method-name">Forgotpassword</span>
+                  <a name="LoginErrorMessage">
+                  </a> <!-- LoginErrorMessage -->
+                  <span class="method-name">LoginErrorMessage</span>
                   <div class="stack-trace">java.lang.NullPointerException: Cannot invoke &quot;org.apache.logging.log4j.Logger.info(String)&quot; because &quot;com.automation.pages.base.BasePage.myLog&quot; is null
 	at com.automation.pages.base.BasePage.getTextFromElement(BasePage.java:48)
-	at com.automation.pages.ForgotPW.ForgotPasswordPage.getTextFromForgotPasswordPageElement(ForgotPasswordPage.java:49)
-	at com.automation.tests.scripts.SalesforceAutomationScript.Forgotpassword(SalesforceAutomationScript.java:137)
+	at com.automation.pages.login.LoginPage.getTextFromEmptyPWLoginerrormessage(LoginPage.java:54)
+	at com.automation.tests.scripts.SalesforceAutomationScript.LoginErrorMessage(SalesforceAutomationScript.java:40)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -170,7 +170,7 @@
         </div> <!-- panel Default_suite -->
         <div panel-name="test-xml-Default_suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\Users\yasmi\AppData\Local\Temp\testng-eclipse--1023217632\testng-customsuite.xml</span>
+            <span class="header-content">C:\Users\yasmi\AppData\Local\Temp\testng-eclipse--1711772749\testng-customsuite.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -181,7 +181,7 @@
     &lt;classes&gt;
       &lt;class name=&quot;com.automation.tests.scripts.SalesforceAutomationScript&quot;&gt;
         &lt;methods&gt;
-          &lt;include name=&quot;Forgotpassword&quot;/&gt;
+          &lt;include name=&quot;LoginErrorMessage&quot;/&gt;
         &lt;/methods&gt;
       &lt;/class&gt; &lt;!-- com.automation.tests.scripts.SalesforceAutomationScript --&gt;
     &lt;/classes&gt;
@@ -225,14 +225,14 @@ data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
 data.addRows(1);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'Forgotpassword')
+data.setCell(0, 1, 'LoginErrorMessage')
 data.setCell(0, 2, 'com.automation.tests.scripts.SalesforceAutomationScript')
-data.setCell(0, 3, 222);
+data.setCell(0, 3, 523);
 window.suiteTableData['Default_suite']= { tableData: data, tableDiv: 'times-div-Default_suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 222 ms</span>
+              <span class="suite-total-time">Total running time: 523 ms</span>
               <div id="times-div-Default_suite">
               </div> <!-- times-div-Default_suite -->
             </div> <!-- times-div -->
@@ -253,13 +253,13 @@ return data;
             <div class="ignored-class-div">
               <span class="ignored-class-name">com.automation.tests.scripts.SalesforceAutomationScript</span>
               <div class="ignored-methods-div">
+                <span class="ignored-method-name">Forgotpassword</span>
+                <br/>
                 <span class="ignored-method-name">ForgotPasswordandUsername</span>
                 <br/>
                 <span class="ignored-method-name">LoginToSalesforce</span>
                 <br/>
                 <span class="ignored-method-name">CheckRememberMe</span>
-                <br/>
-                <span class="ignored-method-name">LoginErrorMessage</span>
                 <br/>
               </div> <!-- ignored-methods-div -->
             </div> <!-- ignored-class-div -->
@@ -278,17 +278,17 @@ return data;
               </div> <!-- configuration-test before -->
               <div class="configuration-method before">
                 <span class="method-name">setUpBeforeTestMethod(firefox)</span>
-                <span class="method-start">412 ms</span>
+                <span class="method-start">434 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <img src="failed.png">
                 </img>
-                <span class="method-name">Forgotpassword</span>
-                <span class="method-start">7211 ms</span>
+                <span class="method-name">LoginErrorMessage</span>
+                <span class="method-start">4701 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDownAfterTestMethod</span>
-                <span class="method-start">7437 ms</span>
+                <span class="method-start">5227 ms</span>
               </div> <!-- configuration-method after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

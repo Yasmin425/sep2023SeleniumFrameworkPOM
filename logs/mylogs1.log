@@ -433,3 +433,45 @@
 20231029 20:20:30 INFO  [main] base.BaseTest BaseTest.java78 - firefox browser launched
 20231029 20:20:31 INFO  [main] base.BaseTest BaseTest.java95 - https://login.salesforce.com/is entered
 20231029 20:20:32 INFO  [main] base.BaseTest BaseTest.java67 - ******Salesforce script ended***********
+20231030 11:22:41 INFO  [main] base.BaseTest BaseTest.java53 - ******Salesforce script Started***********
+20231030 11:22:48 INFO  [main] base.BaseTest BaseTest.java78 - firefox browser launched
+20231030 11:22:48 INFO  [main] base.BaseTest BaseTest.java95 - https://login.salesforce.com/is entered
+20231030 11:22:48 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java25 - ******login_to_Salesforce automation script started***********
+20231030 11:22:50 INFO  [main] base.BaseTest BaseTest.java67 - ******Salesforce script ended***********
+20231030 11:33:06 INFO  [main] base.BaseTest BaseTest.java53 - ******Salesforce script Started***********
+20231030 11:33:11 INFO  [main] base.BaseTest BaseTest.java78 - firefox browser launched
+20231030 11:33:13 INFO  [main] base.BaseTest BaseTest.java95 - https://login.salesforce.com/is entered
+20231030 11:33:13 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java25 - ******login_to_Salesforce automation script started***********
+20231030 11:33:14 INFO  [main] base.BaseTest BaseTest.java67 - ******Salesforce script ended***********
+20231030 11:33:34 INFO  [main] base.BaseTest BaseTest.java53 - ******Salesforce script Started***********
+20231030 11:33:37 INFO  [main] base.BaseTest BaseTest.java78 - firefox browser launched
+20231030 11:33:38 INFO  [main] base.BaseTest BaseTest.java95 - https://login.salesforce.com/is entered
+20231030 11:33:38 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java53 - ******login_to_Salesforce automation script started***********
+20231030 11:33:38 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java56 - url is entered
+20231030 11:33:39 INFO  [main] base.BaseTest BaseTest.java67 - ******Salesforce script ended***********
+20231030 11:36:50 INFO  [main] base.BaseTest BaseTest.java53 - ******Salesforce script Started***********
+20231030 11:36:55 INFO  [main] base.BaseTest BaseTest.java78 - firefox browser launched
+20231030 11:36:56 INFO  [main] base.BaseTest BaseTest.java95 - https://login.salesforce.com/is entered
+20231030 11:36:56 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java25 - ******login_to_Salesforce automation script started***********
+20231030 11:36:57 INFO  [main] base.BaseTest BaseTest.java67 - ******Salesforce script ended***********
+20231030 12:22:47 INFO  [main] base.BaseTest BaseTest.java53 - ******Salesforce script Started***********
+20231030 12:22:53 INFO  [main] base.BaseTest BaseTest.java78 - firefox browser launched
+20231030 12:22:54 INFO  [main] base.BaseTest BaseTest.java95 - https://login.salesforce.com/is entered
+20231030 12:22:54 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java25 - ******login_to_Salesforce automation script started***********
+20231030 12:22:55 INFO  [main] base.BaseTest BaseTest.java67 - ******Salesforce script ended***********
+20231030 12:24:29 INFO  [main] base.BaseTest BaseTest.java53 - ******Salesforce script Started***********
+20231030 12:24:32 INFO  [main] base.BaseTest BaseTest.java78 - firefox browser launched
+20231030 12:24:33 INFO  [main] base.BaseTest BaseTest.java95 - https://login.salesforce.com/is entered
+20231030 12:24:33 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java25 - ******login_to_Salesforce automation script started***********
+20231030 12:24:35 INFO  [main] base.BaseTest BaseTest.java67 - ******Salesforce script ended***********
+20231030 14:01:41 INFO  [main] base.BaseTest BaseTest.java53 - ******Salesforce script Started***********
+20231030 14:01:48 INFO  [main] base.BaseTest BaseTest.java78 - firefox browser launched
+20231030 14:01:48 INFO  [main] base.BaseTest BaseTest.java95 - https://login.salesforce.com/is entered
+20231030 14:01:48 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java53 - ******login_to_Salesforce automation script started***********
+20231030 14:01:48 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java56 - url is entered
+20231030 14:01:52 INFO  [main] base.BaseTest BaseTest.java67 - ******Salesforce script ended***********
+20231030 17:06:11 INFO  [main] base.BaseTest BaseTest.java53 - ******Salesforce script Started***********
+20231030 17:06:15 INFO  [main] base.BaseTest BaseTest.java78 - firefox browser launched
+20231030 17:06:15 INFO  [main] base.BaseTest BaseTest.java95 - https://login.salesforce.com/is entered
+20231030 17:06:15 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java25 - ******login_to_Salesforce automation script started***********
+20231030 17:06:17 INFO  [main] base.BaseTest BaseTest.java67 - ******Salesforce script ended***********
