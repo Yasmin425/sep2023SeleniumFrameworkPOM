@@ -14,7 +14,7 @@ public class LoginPage extends BasePage{
 	@FindBy(id="rememberUn") WebElement RememberMeElement;
 	@FindBy(id="forgot_password_link") WebElement ForgotPasswordElement;
 	@FindBy(xpath="//*[@id=\"error\"]") WebElement EmptyPWLoginErrorElement;
-	@FindBy(xpath="//*[@id=\\\"usernamegroup\\\"]/label") WebElement LoginPageElement;
+	@FindBy(xpath="//*[@id=\"usernamegroup\"]/label") WebElement LoginPageElement;
 	@FindBy(xpath="//*[@id=\"error\"]") WebElement invalidPWandUNLoginErrorElement;
 	
 	
